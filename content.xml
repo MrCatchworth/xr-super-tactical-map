@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<content id="mej_super_tacticalmap" name="Super Tactical Map" description="Experimental full-screen general-purpose map view." author="MegaJohnny" version="130" date="2018-03-28" lastupdate="1428141004">
+  <dependency version="430"></dependency>
+</content>

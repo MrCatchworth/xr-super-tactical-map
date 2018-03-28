@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon name="mej_super_tacticalmap" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../ui/core/addon.xsd">
+  <environment type="fullscreen">
+    <file name="ui/addons/mej_super_tacticalmap/menu_mej_super_tacticalmap.lua" />
+    <dependency name="ego_fullscreenHelper" />
+  </environment>
+</addon>
